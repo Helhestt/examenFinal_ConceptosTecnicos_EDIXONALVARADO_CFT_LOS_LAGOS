@@ -64,6 +64,7 @@ Examen con 6 actividad a completar
 ![Anotación 2024-12-12 011143](https://github.com/user-attachments/assets/552068a1-bf1c-46be-bd33-be2b41fa1a1a)
 ![Anotación 2024-12-12 011208](https://github.com/user-attachments/assets/c1a839ec-6159-4017-b367-434a3b370365)
 ![Anotación 2024-12-12 011220](https://github.com/user-attachments/assets/a298c9e3-886e-4128-9063-e638d9b20d5c)
+link portafolio: http://127.0.0.1:5500/index.html
 
 # Entrega de evidencia en GitHub
 
